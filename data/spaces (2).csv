@@ -1,0 +1,6 @@
+space_id,name,capacity,space_type_id,building_id,location_id
+S6,Lab Sistemas,25,LA,E1,L1
+S7,Aula Magna,80,AD,E2,L1
+S8,Lab Redes,20,LA,E3,L2
+S9,Salon 301,35,SA,E4,L1
+SA,Auditorio Sur,100,AD,E5,L1
